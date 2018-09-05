@@ -1,0 +1,6 @@
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\MudaCores\MudaCores\bin\Debug\MudaCores.exe.config
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\MudaCores\MudaCores\obj\Debug\MudaCores.csprojResolveAssemblyReference.cache
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\MudaCores\MudaCores\bin\Debug\MudaCores.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\MudaCores\MudaCores\bin\Debug\MudaCores.pdb
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\MudaCores\MudaCores\obj\Debug\MudaCores.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\MudaCores\MudaCores\obj\Debug\MudaCores.pdb

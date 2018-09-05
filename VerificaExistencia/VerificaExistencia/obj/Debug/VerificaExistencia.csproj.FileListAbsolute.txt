@@ -1,0 +1,6 @@
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\VerificaExistencia\VerificaExistencia\bin\Debug\VerificaExistencia.exe.config
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\VerificaExistencia\VerificaExistencia\bin\Debug\VerificaExistencia.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\VerificaExistencia\VerificaExistencia\bin\Debug\VerificaExistencia.pdb
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\VerificaExistencia\VerificaExistencia\obj\Debug\VerificaExistencia.csprojResolveAssemblyReference.cache
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\VerificaExistencia\VerificaExistencia\obj\Debug\VerificaExistencia.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\VerificaExistencia\VerificaExistencia\obj\Debug\VerificaExistencia.pdb

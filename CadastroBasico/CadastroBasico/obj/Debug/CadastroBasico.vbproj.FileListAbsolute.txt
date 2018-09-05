@@ -1,0 +1,11 @@
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroBasico\CadastroBasico\bin\Debug\CadastroBasico.exe.config
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroBasico\CadastroBasico\bin\Debug\CadastroBasico.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroBasico\CadastroBasico\bin\Debug\CadastroBasico.pdb
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroBasico\CadastroBasico\bin\Debug\CadastroBasico.xml
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroBasico\CadastroBasico\obj\Debug\CadastroBasico.vbprojResolveAssemblyReference.cache
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroBasico\CadastroBasico\obj\Debug\CadastroBasico.Resources.resources
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroBasico\CadastroBasico\obj\Debug\CadastroBasico.vbproj.GenerateResource.Cache
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroBasico\CadastroBasico\obj\Debug\CadastroBasico.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroBasico\CadastroBasico\obj\Debug\CadastroBasico.xml
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroBasico\CadastroBasico\obj\Debug\CadastroBasico.pdb
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroBasico\CadastroBasico\obj\Debug\CadastroBasico.fnCadastro.resources

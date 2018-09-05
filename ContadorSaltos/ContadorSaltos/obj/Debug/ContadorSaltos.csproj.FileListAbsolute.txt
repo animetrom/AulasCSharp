@@ -1,0 +1,6 @@
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\ContadorSaltos\ContadorSaltos\bin\Debug\ContadorSaltos.exe.config
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\ContadorSaltos\ContadorSaltos\obj\Debug\ContadorSaltos.csprojResolveAssemblyReference.cache
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\ContadorSaltos\ContadorSaltos\bin\Debug\ContadorSaltos.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\ContadorSaltos\ContadorSaltos\bin\Debug\ContadorSaltos.pdb
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\ContadorSaltos\ContadorSaltos\obj\Debug\ContadorSaltos.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\ContadorSaltos\ContadorSaltos\obj\Debug\ContadorSaltos.pdb

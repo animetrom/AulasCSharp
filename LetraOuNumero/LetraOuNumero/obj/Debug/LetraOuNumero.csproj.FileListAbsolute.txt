@@ -1,0 +1,9 @@
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LetraOuNumero\LetraOuNumero\bin\Debug\LetraOuNumero.exe.config
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LetraOuNumero\LetraOuNumero\bin\Debug\LetraOuNumero.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LetraOuNumero\LetraOuNumero\bin\Debug\LetraOuNumero.pdb
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LetraOuNumero\LetraOuNumero\obj\Debug\LetraOuNumero.csprojResolveAssemblyReference.cache
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LetraOuNumero\LetraOuNumero\obj\Debug\LetraOuNumero.Form1.resources
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LetraOuNumero\LetraOuNumero\obj\Debug\LetraOuNumero.Properties.Resources.resources
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LetraOuNumero\LetraOuNumero\obj\Debug\LetraOuNumero.csproj.GenerateResource.Cache
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LetraOuNumero\LetraOuNumero\obj\Debug\LetraOuNumero.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LetraOuNumero\LetraOuNumero\obj\Debug\LetraOuNumero.pdb

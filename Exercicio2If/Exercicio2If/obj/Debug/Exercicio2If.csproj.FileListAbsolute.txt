@@ -1,0 +1,5 @@
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\Exercicio2If\Exercicio2If\bin\Debug\Exercicio2If.exe.config
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\Exercicio2If\Exercicio2If\bin\Debug\Exercicio2If.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\Exercicio2If\Exercicio2If\bin\Debug\Exercicio2If.pdb
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\Exercicio2If\Exercicio2If\obj\Debug\Exercicio2If.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\Exercicio2If\Exercicio2If\obj\Debug\Exercicio2If.pdb

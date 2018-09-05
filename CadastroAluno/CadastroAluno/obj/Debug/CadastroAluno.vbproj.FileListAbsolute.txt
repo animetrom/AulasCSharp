@@ -1,0 +1,11 @@
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroAluno\CadastroAluno\bin\Debug\CadastroAluno.exe.config
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroAluno\CadastroAluno\bin\Debug\CadastroAluno.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroAluno\CadastroAluno\bin\Debug\CadastroAluno.pdb
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroAluno\CadastroAluno\bin\Debug\CadastroAluno.xml
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.vbprojResolveAssemblyReference.cache
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.Form1.resources
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.Resources.resources
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.vbproj.GenerateResource.Cache
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.xml
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.pdb

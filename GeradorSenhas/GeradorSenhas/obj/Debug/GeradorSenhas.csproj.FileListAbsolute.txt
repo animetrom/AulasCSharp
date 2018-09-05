@@ -1,0 +1,9 @@
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\GeradorSenhas\GeradorSenhas\bin\Debug\GeradorSenhas.exe.config
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\GeradorSenhas\GeradorSenhas\bin\Debug\GeradorSenhas.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\GeradorSenhas\GeradorSenhas\bin\Debug\GeradorSenhas.pdb
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\GeradorSenhas\GeradorSenhas\obj\Debug\GeradorSenhas.csprojResolveAssemblyReference.cache
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\GeradorSenhas\GeradorSenhas\obj\Debug\GeradorSenhas.Form1.resources
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\GeradorSenhas\GeradorSenhas\obj\Debug\GeradorSenhas.Properties.Resources.resources
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\GeradorSenhas\GeradorSenhas\obj\Debug\GeradorSenhas.csproj.GenerateResource.Cache
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\GeradorSenhas\GeradorSenhas\obj\Debug\GeradorSenhas.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\GeradorSenhas\GeradorSenhas\obj\Debug\GeradorSenhas.pdb

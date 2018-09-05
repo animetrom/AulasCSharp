@@ -1,0 +1,6 @@
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\contatodr\contatodr\bin\Debug\contatodr.exe.config
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\contatodr\contatodr\bin\Debug\contatodr.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\contatodr\contatodr\bin\Debug\contatodr.pdb
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\contatodr\contatodr\obj\Debug\contatodr.csprojResolveAssemblyReference.cache
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\contatodr\contatodr\obj\Debug\contatodr.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\contatodr\contatodr\obj\Debug\contatodr.pdb

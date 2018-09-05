@@ -1,0 +1,9 @@
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\FormSistema\FormSistema\bin\Debug\FormSistema.exe.config
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\FormSistema\FormSistema\bin\Debug\FormSistema.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\FormSistema\FormSistema\bin\Debug\FormSistema.pdb
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\FormSistema\FormSistema\obj\Debug\FormSistema.csprojResolveAssemblyReference.cache
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\FormSistema\FormSistema\obj\Debug\FormSistema.Form1.resources
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\FormSistema\FormSistema\obj\Debug\FormSistema.Properties.Resources.resources
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\FormSistema\FormSistema\obj\Debug\FormSistema.csproj.GenerateResource.Cache
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\FormSistema\FormSistema\obj\Debug\FormSistema.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\FormSistema\FormSistema\obj\Debug\FormSistema.pdb

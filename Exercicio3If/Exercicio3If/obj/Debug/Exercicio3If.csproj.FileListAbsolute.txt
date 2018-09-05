@@ -1,0 +1,6 @@
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\Exercicio3If\Exercicio3If\bin\Debug\Exercicio3If.exe.config
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\Exercicio3If\Exercicio3If\bin\Debug\Exercicio3If.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\Exercicio3If\Exercicio3If\bin\Debug\Exercicio3If.pdb
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\Exercicio3If\Exercicio3If\obj\Debug\Exercicio3If.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\Exercicio3If\Exercicio3If\obj\Debug\Exercicio3If.pdb
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\Exercicio3If\Exercicio3If\obj\Debug\Exercicio3If.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.pdb

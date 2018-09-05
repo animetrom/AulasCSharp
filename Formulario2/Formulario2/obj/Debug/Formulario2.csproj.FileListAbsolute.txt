@@ -1,0 +1,9 @@
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\Formulario2\Formulario2\bin\Debug\Formulario2.exe.config
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\Formulario2\Formulario2\bin\Debug\Formulario2.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\Formulario2\Formulario2\bin\Debug\Formulario2.pdb
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\Formulario2\Formulario2\obj\Debug\Formulario2.csprojResolveAssemblyReference.cache
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\Formulario2\Formulario2\obj\Debug\Formulario2.Form1.resources
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\Formulario2\Formulario2\obj\Debug\Formulario2.Properties.Resources.resources
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\Formulario2\Formulario2\obj\Debug\Formulario2.csproj.GenerateResource.Cache
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\Formulario2\Formulario2\obj\Debug\Formulario2.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\Formulario2\Formulario2\obj\Debug\Formulario2.pdb

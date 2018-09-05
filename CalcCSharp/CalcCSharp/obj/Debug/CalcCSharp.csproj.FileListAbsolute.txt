@@ -1,0 +1,9 @@
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CalcCSharp\CalcCSharp\bin\Debug\CalcCSharp.exe.config
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CalcCSharp\CalcCSharp\bin\Debug\CalcCSharp.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CalcCSharp\CalcCSharp\bin\Debug\CalcCSharp.pdb
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CalcCSharp\CalcCSharp\obj\Debug\CalcCSharp.Form1.resources
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CalcCSharp\CalcCSharp\obj\Debug\CalcCSharp.Properties.Resources.resources
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CalcCSharp\CalcCSharp\obj\Debug\CalcCSharp.csproj.GenerateResource.Cache
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CalcCSharp\CalcCSharp\obj\Debug\CalcCSharp.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CalcCSharp\CalcCSharp\obj\Debug\CalcCSharp.pdb
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\CalcCSharp\CalcCSharp\obj\Debug\CalcCSharp.csprojResolveAssemblyReference.cache

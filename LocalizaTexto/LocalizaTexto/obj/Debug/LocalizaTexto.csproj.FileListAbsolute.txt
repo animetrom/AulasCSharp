@@ -1,0 +1,6 @@
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LocalizaTexto\LocalizaTexto\bin\Debug\LocalizaTexto.exe.config
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LocalizaTexto\LocalizaTexto\bin\Debug\LocalizaTexto.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LocalizaTexto\LocalizaTexto\bin\Debug\LocalizaTexto.pdb
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LocalizaTexto\LocalizaTexto\obj\Debug\LocalizaTexto.csprojResolveAssemblyReference.cache
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LocalizaTexto\LocalizaTexto\obj\Debug\LocalizaTexto.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\LocalizaTexto\LocalizaTexto\obj\Debug\LocalizaTexto.pdb

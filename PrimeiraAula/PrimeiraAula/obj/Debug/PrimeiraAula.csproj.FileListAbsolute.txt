@@ -1,0 +1,6 @@
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.exe.config
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.pdb
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.csprojResolveAssemblyReference.cache
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.exe
+c:\users\atila.dpribeiro\documents\visual studio 2015\Projects\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.pdb
